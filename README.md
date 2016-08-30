@@ -1,0 +1,1 @@
+# Kata-primeNumber-java
